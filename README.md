@@ -1,7 +1,7 @@
 -  Hi, I’m TonyYui
 -  I’m interested in .NET Develop.
 -  I’m currently learning MAUI and ASP.NET Core.
--  I’m looking for a job could Transfer Ameriacn.
+-  I’m looking for a job that could potentially transfer to the US.
 -  Welcome to reach me : TonyYui@outlook.com
 
 <!---
